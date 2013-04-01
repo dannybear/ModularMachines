@@ -1,2 +1,2 @@
-ModularMachines
+Modular-Machines
 ===============
